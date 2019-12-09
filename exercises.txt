@@ -1,6 +1,0 @@
-HTML Exercises
-
-6.Create an HTML Page that contains 3 images(your choice). Separate all images with a horizontal line.
-
-
-When writing your code don't forget to make the code look readeble, add comments, and don't forget to follow the page structure rules!

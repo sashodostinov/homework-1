@@ -6,3 +6,4 @@ First Homework
 3. Third Exercise is completed
 4. Fourth exercise is completed
 5. Fifth Exercise is completed
+6. Sixth Exercise is completed
